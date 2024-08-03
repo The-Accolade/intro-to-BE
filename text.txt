@@ -1,0 +1,42 @@
+What does the backend mean?
+"Backend": server-side that focuses on databases, scripting and website architecture. it is basically the part of the website that users don't see.
+
+Frontend runs on the browser, the backend of the website runs on a server.
+
+- Popular web development stacks:
+A web development stack is a combination of tools and technologies used to create websites or web applications, including the:
+     MERN (MongoDB, ExpressJS, ReactJS and NodeJS), 
+     MEAN(MongoDB, ExpressJS, Angular and NodeJS), 
+     MEVN (MongoDB, ExpressJS, VueJS and NodeJS), 
+     PERN (PostgresSQL, ExpressJS, ReactJS and NodeJS)
+
+Further Reading: https://medium.com/@emmaw4430/popular-web-apps-made-with-mern-69e93950ebe9
+
+
+Setting up a backend development environment, you need the following
+Node: Download here => https://nodejs.org/en
+Npm comes along with it. It is called the node package manager, which is a library or distribution package for nodeJS based apps that have been built by developers for developers.
+
+Read about JSON here => https://www.w3schools.com/whatis/whatis_json.asp
+
+Read about terminal commands: https://medium.com/@kmsaifullah16/essential-terminal-commands-for-web-developers-60f44381644e
+
+What are APIs? 
+Application Programming Interface. They are basically a way for different software systems to communicate with each other, allowing for integration of functionalities. The API creator creates a set of rules and protocols for building and interacting with his own software, defining the methods, data and formats that the applications can use to communicate with each other.
+
+REST APIs - https://aws.amazon.com/what-is/api/#:~:text=API%20stands%20for%20Application%20Programming,other%20using%20requests%20and%20responses.
+
+
+Read more about HTTP here => https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/
+
+Read about HTTPS => https://www.cloudflare.com/learning/ssl/what-is-https/#:~:text=Hypertext%20transfer%20protocol%20secure%20(HTTPS,increase%20security%20of%20data%20transfer.
+
+Http Status Codes => https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#information_responses
+
+HTTP Request Methods => https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+
+Folder structure for a nodejs app => https://www.geeksforgeeks.org/folder-structure-for-a-node-js-project/
+
+
+UNDERSTAND THE CORS ERROR - https://www.bannerbear.com/blog/what-is-a-cors-error-and-how-to-fix-it-3-ways/
